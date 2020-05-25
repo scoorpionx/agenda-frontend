@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## First Things First
+
+Go to agenda-frontend/src/services/api.js and change the "baseURL" to your local host.<br />
+If you don't have the API code yet, [https://github.com/scoorpionx/agenda-api](here it's).<br />
+Make sure that the API it's running.
+
 ## Available Scripts
 
 In the project directory, you can run:
