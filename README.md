@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## First Things First
 
 Go to agenda-frontend/src/services/api.js and change the "baseURL" to your local host.<br />
-If you don't have the API code yet, [here it's](https://github.com/scoorpionx/agenda-api).<br />
+If you don't have the API code yet, [here it's](https://github.com/scoorpionx/agenda-api/tree/development).<br />
 Make sure that the API it's running.
 
 ## Available Scripts
